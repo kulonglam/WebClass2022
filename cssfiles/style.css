@@ -57,6 +57,13 @@ p{
     font-size: 15px;
     padding: 10px;
 }
+.school li a{
+    color: #3408f7;
+    text-decoration: none;
+    font-weight: bold;
+    list-style: none;
+
+}
 
 .form{
     padding: 10px;
